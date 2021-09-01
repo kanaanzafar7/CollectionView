@@ -2,17 +2,21 @@ PODS:
   - SDWebImage (5.11.1):
     - SDWebImage/Core (= 5.11.1)
   - SDWebImage/Core (5.11.1)
+  - SquareFlowLayout (0.0.1)
 
 DEPENDENCIES:
   - SDWebImage
+  - SquareFlowLayout
 
 SPEC REPOS:
   trunk:
     - SDWebImage
+    - SquareFlowLayout
 
 SPEC CHECKSUMS:
   SDWebImage: a7f831e1a65eb5e285e3fb046a23fcfbf08e696d
+  SquareFlowLayout: cde3486d3086fb7f95b303d9b90bb86aa9dd98b5
 
-PODFILE CHECKSUM: 7f4ba81d945fcefb63ef12d77547ded1386e3688
+PODFILE CHECKSUM: 26182398e994d76546ee6fbffe30014adb472e85
 
 COCOAPODS: 1.10.2

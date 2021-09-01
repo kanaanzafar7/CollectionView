@@ -7,7 +7,7 @@ target 'CollectionView' do
 
   # Pods for CollectionView
 pod 'SDWebImage'
-
+pod 'SquareFlowLayout'
   target 'CollectionViewTests' do
     inherit! :search_paths
     # Pods for testing
